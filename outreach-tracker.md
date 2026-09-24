@@ -12,7 +12,7 @@ We started with the five largest projects. We fork each one, build the Decision 
 
 | Project | Stars | Language | Fork | Issue | Discussion | Pull request | License credit |
 |---|---|---|---|---|---|---|---|
-| OpenClaw | 390k | to confirm | [fork](https://github.com/Andrea-Bruno/openclaw) | pending | pending | pending | pending |
+| OpenClaw | 390k | TypeScript | [fork](https://github.com/Andrea-Bruno/openclaw) | [#157418](https://github.com/openclaw/openclaw/issues/157418) | not available (discussions off) | [#157417](https://github.com/openclaw/openclaw/pull/157417) | pending |
 | OpenCode | 209k | TypeScript | [fork](https://github.com/Andrea-Bruno/opencode) | [#51156](https://github.com/anomalyco/opencode/issues/51156) | not available (discussions off) | [#51155](https://github.com/anomalyco/opencode/pull/51155) | pending |
 | DeepSeek Harness | 234k | TypeScript + Python | [fork](https://github.com/Andrea-Bruno/deepseek-harness) | not open (issues disabled) | [#7768](https://github.com/deepseek-ai/deepseek-harness/discussions/7768) | blocked (external PRs off); [branch ready](https://github.com/Andrea-Bruno/deepseek-harness/tree/feat/superfast-decision-gate) | pending |
 | Claude Code | 147k | docs and plugins only, no agent source | [fork](https://github.com/Andrea-Bruno/claude-code) | [#96789](https://github.com/anthropics/claude-code/issues/96789) | not available (discussions off) | not possible (no agent source) | pending |
