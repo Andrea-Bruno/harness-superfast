@@ -15,7 +15,7 @@ We started with the five largest projects. We fork each one, build the Decision 
 | OpenClaw | 390k | to confirm | [fork](https://github.com/Andrea-Bruno/openclaw) | pending | pending | pending | pending |
 | OpenCode | 209k | TypeScript | [fork](https://github.com/Andrea-Bruno/opencode) | [#51156](https://github.com/anomalyco/opencode/issues/51156) | not available (discussions off) | [#51155](https://github.com/anomalyco/opencode/pull/51155) | pending |
 | DeepSeek Harness | 234k | TypeScript + Python | [fork](https://github.com/Andrea-Bruno/deepseek-harness) | not open (issues disabled) | [#7768](https://github.com/deepseek-ai/deepseek-harness/discussions/7768) | blocked (external PRs off); [branch ready](https://github.com/Andrea-Bruno/deepseek-harness/tree/feat/superfast-decision-gate) | pending |
-| Claude Code | 147k | TypeScript | [fork](https://github.com/Andrea-Bruno/claude-code) | pending | pending | pending | pending |
+| Claude Code | 147k | docs and plugins only, no agent source | [fork](https://github.com/Andrea-Bruno/claude-code) | [#96789](https://github.com/anthropics/claude-code/issues/96789) | not available (discussions off) | not possible (no agent source) | pending |
 | Gemini CLI | 107k | TypeScript | [fork](https://github.com/Andrea-Bruno/gemini-cli) | [#29483](https://github.com/google-gemini/gemini-cli/issues/29483) | [#29484](https://github.com/google-gemini/gemini-cli/discussions/29484) | [#29482](https://github.com/google-gemini/gemini-cli/pull/29482) | pending |
 
 ### OpenClaw
