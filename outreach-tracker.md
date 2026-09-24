@@ -16,7 +16,7 @@ We started with the five largest projects. We fork each one, build the Decision 
 | DeepSeek Harness | 234k | to confirm | [fork](https://github.com/Andrea-Bruno/deepseek-harness) | not open (issues disabled) | pending | pending | pending |
 | OpenCode | 209k | TypeScript | [fork](https://github.com/Andrea-Bruno/opencode) | pending | pending | pending | pending |
 | Claude Code | 147k | TypeScript | [fork](https://github.com/Andrea-Bruno/claude-code) | pending | pending | pending | pending |
-| Gemini CLI | 107k | TypeScript | [fork](https://github.com/Andrea-Bruno/gemini-cli) | pending | pending | pending | pending |
+| Gemini CLI | 107k | TypeScript | [fork](https://github.com/Andrea-Bruno/gemini-cli) | [#29483](https://github.com/google-gemini/gemini-cli/issues/29483) | [#29484](https://github.com/google-gemini/gemini-cli/discussions/29484) | [#29482](https://github.com/google-gemini/gemini-cli/pull/29482) | pending |
 
 ### OpenClaw
 
